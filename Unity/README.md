@@ -8,7 +8,7 @@ This system uses the **Unity Engine** as base for the telepresence system.
 Please check the following requirements:
 - **Unity 2018.1.4**
 - [M2MqttUnity](https://github.com/gpvigano/M2MqttUnity)
-- MQTT Broker of your choice. We recommend using the [Mosquitto Broker]([https://mosquitto.org/download/](https://mosquitto.org/download/))
+- MQTT Broker of your choice. We recommend using the [Mosquitto Broker](https://mosquitto.org/download)
 
 ## Setup
 Download alle files and import them into your Unity Project.
